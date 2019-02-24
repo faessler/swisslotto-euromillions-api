@@ -1,0 +1,8 @@
+# SYSTEM
+.idea/
+.DS_Store
+
+# PROJECT
+vendor/
+web/drawings/*
+!web/drawings/.gitkeep

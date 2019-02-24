@@ -1,0 +1,13 @@
+{
+    "name": "faessler/swisslotto-euromillions-api",
+    "description": "PHP API to get the latest drawings of the Swiss Lotto or Euro Millions lotto and return them as a JSON.",
+    "authors": [
+        {
+            "name": "Jan Fässler",
+            "email": "jan@faessler.be"
+        }
+    ],
+    "require": {
+        "paquettg/php-html-parser": "^2.0"
+    }
+}
